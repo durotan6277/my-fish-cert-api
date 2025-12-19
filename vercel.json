@@ -1,7 +1,7 @@
 {
-  functions {
-    apiindex.py {
-      runtime python
+  "functions": {
+    "api/index.py": {
+      "runtime": "python"
     }
   }
 }
